@@ -1,0 +1,19 @@
+{
+    "characterName": "daodit1",
+    "characterLevel": 1,
+    "xPosition": -1.2200000286102296,
+    "yPosition": -9.450141906738282,
+    "zPosition": 29.919235229492189,
+    "yRotation": 0.0,
+    "_sceneNow": "UEH B1",
+    "currentHealth": 50,
+    "maxHealth": 50,
+    "healthLevel": 5,
+    "currentStamina": 100.0,
+    "maxStamina": 100.0,
+    "staminaLevel": 10,
+    "currentAttackDamage": 20,
+    "currentSouls": 50,
+    "healthSliderValue": 50.0,
+    "staminaSliderValue": 100.0
+}
